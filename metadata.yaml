@@ -1,0 +1,32 @@
+_repo: Virginia-s-Adventure-Club_61987
+_version: 0.0.1
+creator:
+  author:
+    agent_name: North, Grace May
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '41476'
+    url: http://www.gutenberg.org/2009/agents/41476
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/41818
+    - https://en.wikipedia.org/wiki/Grace_May_North
+description: ''
+gutenberg_issued: '2020-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61987'
+  lccn: '24018092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Virginia Davis Series
+subjects:
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Girls -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Virginia's Adventure Club
+url: http://www.gutenberg.org/ebooks/61987
